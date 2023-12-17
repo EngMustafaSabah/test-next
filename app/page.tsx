@@ -1,15 +1,15 @@
-import React from 'react'
-import Navbarr from './Navnar/Navbar'
-
+import React from 'react';
+import Navbarr from './Components/Navbarr/Navbarr';
+import SliderSlick from './Components/SliderSlick/SliderSlick';
 
 const page = () => {
-  
-  return (
 
+  return (
     <>
-      <Navbarr/>
-      <h1>hii</h1>
-    
+      <Navbarr />
+      <h1>hiiiiiiiiiv</h1>
+
+      <SliderSlick />
     </>
   )
 }

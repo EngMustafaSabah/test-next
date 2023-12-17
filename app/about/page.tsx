@@ -1,12 +1,10 @@
-import React from 'react'
-import { Navbar } from 'react-bootstrap'
-
+import React from 'react';
+// import Navbarr from '../components/Navbarr/Navbarr';
 
 const About = () => {
   return (
     <>
-        <Navbar/>
-    
+      {/* <Navbarr /> */}
     </>
   )
 }
